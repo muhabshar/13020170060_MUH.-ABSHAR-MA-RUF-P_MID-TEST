@@ -5,7 +5,7 @@ Glide + RecyclerView + List and Grid type converter + CircleImageView
 | ---- | ---- | ----- |
 | ![Grid](/Grid.jpg) | ![List](/List.jpg) | ![About](/About.jpg) |
 
-| Snackbar | Detail | Cast and Crew |
+| Toast | Detail | Cast and Crew |
 | -------- | ------ | ------------- |
 | ![Snackbar](/SnackBar.jpg) | ![Detail](/Detail.jpg) | ![CastAndCrew](/CastAndCrew.jpg) |
 
