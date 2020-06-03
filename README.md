@@ -1,4 +1,4 @@
-# TugasProject4-MoviesCatalogue
+# TugasProject4-TvShow
 Glide + RecyclerView + List and Grid type converter + CircleImageView
 
 | Grid | List | About |
